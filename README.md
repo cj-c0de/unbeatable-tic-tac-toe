@@ -19,13 +19,13 @@ This is a Python implementation of a classic Tic-Tac-Toe game where the user pla
 
   
    ``
-   git clone https://github.com/yourusername/tic-tac-toe-unbeatable-ai.git
+   git clone https://github.com/dastgerdidev/unbeatable-tic-tac-toe
    ``
    
 2. Navigate to the project directory:
 
    ``
-   cd tic-tac-toe-unbeatable-ai
+   cd unbeatable-tic-tac-toe
    ``
    
 ## Usage
