@@ -67,3 +67,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - The minimax algorithm is a well-known algorithm in game theory and artificial intelligence.
 - Special thanks to the Python community for providing such a powerful and versatile language.
+
+## Contact
+- **GitHub:** [cj-c0de](https://github.com/cj-c0de)
+- **Email:** dastgerdi.dev@gmail.com
